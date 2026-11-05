@@ -1,0 +1,9 @@
+node_modules/
+server/dist/
+server/uploads/
+server/.env
+mobile/.expo/
+mobile/ios/
+mobile/android/
+*.log
+.DS_Store
